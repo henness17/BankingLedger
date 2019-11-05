@@ -1,0 +1,9 @@
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\bin\Debug\BankingLedger.exe.config
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\bin\Debug\BankingLedger.exe
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\bin\Debug\BankingLedger.pdb
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\obj\Debug\BankingLedger.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\obj\Debug\BankingLedger.StringResources.resources
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\obj\Debug\BankingLedger.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\obj\Debug\BankingLedger.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\obj\Debug\BankingLedger.exe
+C:\Users\Ryan\source\repos\BankingLedger\BankingLedger\obj\Debug\BankingLedger.pdb
